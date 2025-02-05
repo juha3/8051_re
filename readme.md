@@ -4,6 +4,7 @@
 
 A tool tries to analyze code by following calls and jumps and 
 disassembles only parts of the binary, it detects as accessible parts of code.
+User inteface implemented by using ncurses library,
 
 ## Usage
 
